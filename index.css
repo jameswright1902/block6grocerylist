@@ -1,0 +1,51 @@
+body{
+    background-color: blanchedalmond;
+
+}
+
+h1{
+    background-color: aqua;text-align: center;
+
+}
+
+#myultimategrocerylist{
+    text-align: center;
+    border-bottom: 3px dotted cadetblue;
+    margin-top: 0px;
+}
+
+h2{
+    background-color: rgb(0, 255, 55);
+    
+}
+
+h3{
+    background-color: dimgray;
+
+}
+
+
+div{
+    display: flex;
+}
+
+#meats {
+    border: solid black;
+    padding: 20px;
+}
+
+#dairy {
+    border: solid black;
+    padding: 20px;
+}
+
+#snacks {
+    border: solid black;
+    padding: 20px;
+}
+
+#drinks {
+    border: solid black;
+    padding: 20px;
+    margin-left: 5px;
+}
